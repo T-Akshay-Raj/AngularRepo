@@ -6,7 +6,7 @@ Angular Practice Repo
 Angular command line tool: ng
 
 
-## popular angular commands {#commands}
+## popular angular commands
 - ng build: compile code and output files into build directory
 - ng serve: compile code and launch and dev server and watch the changes(means changes get auto reload instead of refresing window each time)
 - ng generate: to add new files using angulars builtin boilerplates
